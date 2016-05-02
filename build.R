@@ -50,11 +50,11 @@ render("book.Rmd", output_format = "pdf_document")
 # need to build the .tex manually for references to compile
 source("R/build-CRC-version.R")
 # Make latex-specific changes automated
-booktex <- readLines("spatial-microsim-book.tex")
+booktex <- readLines("sc-book.tex")
 booktex[grep("\\{Glossary\\}", booktex)]
 booktex <- gsub(pattern = "chapter\\{Glossary\\}", "chapter*\\{Glossary\\}\n\\\\addcontentsline{toc}{chapter}{Glossary}
 ", booktex)
-writeLines(booktex, "spatial-microsim-book.tex")
+writeLines(booktex, "sc-book.tex")
 # in case index does not build - run again!
 # system("pdflatex --interaction=nonstopmode  spatial-microsim-book.tex")
 

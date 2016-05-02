@@ -1,7 +1,7 @@
 # Build the CRC-formatted version of the book
 source("R/bbuild.R")
-system("pdflatex --interaction=nonstopmode  spatial-microsim-book.tex")
-system("pdflatex --interaction=nonstopmode  spatial-microsim-book.tex")
+system("pdflatex --interaction=nonstopmode  sc-book.tex")
+system("pdflatex --interaction=nonstopmode  sc-book.tex")
 
 # tidy up the mess
 tt <- list.files(pattern = "*.aux|*.toc|*.log|*.lot|*.gz|*.idx|*.ilg|*.ind|*.ggmap", )

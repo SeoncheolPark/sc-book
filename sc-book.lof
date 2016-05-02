@@ -1,0 +1,50 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Schematic diagram contrasting conventional official data (above) against spatial microdata produced during \emph {population synthesis} (below). Note that for brevity the geographically aggregated data are called \emph {constraints} and the individual level survey data are called \emph {microdata} in this book.}}{8}{figure.1.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Autocompletion in RStudio}}{20}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The RStudio interface with the spatial-microsim-book project loaded and objects loaded in the Environment after running SimpleWorld.R}}{21}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The SimpleWorld environment, consisting of individuals living in 3 zones.}}{22}{figure.2.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Schematic of population synthesis, a critical element in spatial microsimulation}}{32}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Output from the EUROMOD economic microsimulation model (Avram et al. 2014). Along the x axes is income group rising to the right. This means, for example, that Latvia (LV) has implemented progressive policies whereas Portugal (PT) has implemented regressive policies. Country acronyms from left to right stand for Estonia (EE), Greece (EL), Spain (ES), Italy (IT), Latvia (LV), Lithuania (LT), Portugal (PT), Romania (RO) and the UK.}}{40}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces An illustration of spatial microdata in transport modelling. 20 people are illustrated on the map as travelling to a range of destinations, specified based on probability-weighted sampling from origin-destination tables (Lovelace et al. 2014).}}{42}{figure.3.3}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Schematic of different approaches for the creation of spatial microdata encapsulating stochastic combinatorial optimisation and deterministic reweighting algorithms such as IPF. Note that integerisation and `compression' steps make the results of the two approaches interchangeable, hence our use of the term `reweighting algorithm' to cover all methods for generating spatial microdata.}}{68}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Fit between observed and simulated values for age and sex categories (column facets) after constraining a first time by age and sex constraints (iterations 1.1 and 1.2, plot rows). The dotted line in each plot represents perfect fit between the simulated and observed cell values. The overall fit in each case would be found by combining the left and right-hand plots. Each symbol corresponds to a category and each category has a couple (observed, simulated) for each zone.}}{78}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Distribution of a vector generated randomly (each integer between 1 and 100,000 being equally likely).}}{92}{figure.5.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Relationship between number of iterations and goodness-of-fit between observed and simulated results for different optimisation algorithms.}}{118}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Relationship between processing time and goodness-of-fit between observed and simulated results for different optimisation algorithms.}}{121}{figure.6.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Example of raw aggregate level input data for CakeMap aggregate data, downloaded from \url {http://infuse.mimas.ac.uk/}.}}{129}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Scatter plot of the relationship between observed cell counts for all categories and all zones from the census (x axis) and the simulated cell counts after IPF (y axis).}}{132}{figure.7.2}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Scatter plot of the relationship between observed cell counts for all categories and all zones from the census (x axis) and the simulated cell counts after IPF (y axis).}}{139}{figure.7.3}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Scatter plot of the relationship between observed cell counts for all categories and all zones from the census (x axis) and the simulated cell counts after IPF (y axis) (ipfp vs mipfp).}}{141}{figure.7.4}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Time necessary to perform the generation of the weight matrix depending on the number of individuals inside the microdata.}}{143}{figure.7.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Geographical distribution of Total Absolute Error (TAE) and Relative Error (RE). Note the zones of high error are clustered in university areas such as near the University of Leeds, where there is a high non-resident population.}}{158}{figure.8.1}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Constituent members selection process}}{178}{figure.10.1}
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Illustration of the problem of grouping members of married couples with children.}}{180}{figure.10.2}
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Illustration of the algorithm to form the couples}}{182}{figure.10.3}
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Illustration of the results for the couples in Belgium}}{183}{figure.10.4}
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Illustration of the non-assigned individuals in Belgium}}{184}{figure.10.5}
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Illustration of the individuals in a household of a different size for Belgium}}{185}{figure.10.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {11.1}{\ignorespaces Overview of TRESIS model structure}}{191}{figure.11.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {12.1}{\ignorespaces Setting the world size and resolution}}{215}{figure.12.1}
+\contentsline {figure}{\numberline {12.2}{\ignorespaces SimpleWorld in NetLogo}}{216}{figure.12.2}
+\contentsline {figure}{\numberline {12.3}{\ignorespaces SimpleWorld in NetLogo}}{218}{figure.12.3}
+\contentsline {figure}{\numberline {12.4}{\ignorespaces SimpleWorld populated with 33 inhabitants}}{222}{figure.12.4}
+\contentsline {figure}{\numberline {12.5}{\ignorespaces New global variables defined using sliders}}{224}{figure.12.5}
+\contentsline {figure}{\numberline {12.6}{\ignorespaces SimpleWorld in negotiations}}{229}{figure.12.6}
+\contentsline {figure}{\numberline {12.7}{\ignorespaces Plotting SimpleWorld}}{233}{figure.12.7}
+\contentsline {figure}{\numberline {12.8}{\ignorespaces NetLogo data plotted in R}}{237}{figure.12.8}
+\contentsline {figure}{\numberline {12.9}{\ignorespaces Number of zone changes correlated with inhabitants' income variables}}{240}{figure.12.9}
+\contentsline {figure}{\numberline {12.10}{\ignorespaces Number of zones occupied at end of simulation (20 repetitions)}}{244}{figure.12.10}
+\contentsline {figure}{\numberline {12.11}{\ignorespaces Average number of ticks in simulations with single zone winning}}{245}{figure.12.11}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

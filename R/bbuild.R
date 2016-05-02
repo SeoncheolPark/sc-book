@@ -49,7 +49,7 @@ k <- c(
   )
 
 
-writeLines(k, con = "spatial-microsim-book.tex")
+writeLines(k, con = "sc-book.tex")
 
 # out-takes - code not used
 # b[1] <- gsub("documentclass\\[\\]\\{article\\}", "documentclass\\[krantz1,ChapterTOCs\\]\\{krantz\\}", x = b[1]) # change 1st line
